@@ -4,6 +4,8 @@ Ce depot permet de signaler des bugs et suggestions pour l'application ExplorADV
 
 ## Comment signaler un probleme
 
+![Tutoriel video](docs/images/00-bug-report-video-tutorial.gif)
+
 ### 1. Allez dans l'onglet **Issues**
 
 ![Onglet Issues](docs/images/01-tabs.png)
@@ -45,3 +47,13 @@ Selon votre sélection, vous aurez des champs supplémentaires à saisir.
 ### 4. Remplissez le formulaire et cliquez sur **Create**
 
 ![Formulaire Bug Report](docs/images/04-bug-report-form.png)
+
+## Consulter les issues
+
+Pour consulter la liste des issues, allez dans l'onglet [Issues](../../issues).
+
+### Filtrer vos issues
+
+Pour voir uniquement les issues que vous avez ouvertes, utilisez le filtre **Author** et selectionnez votre nom d'utilisateur.
+
+Vous pouvez aussi utiliser la barre de recherche avec le filtre `author:votre-username`. Par exemple: `is:issue author:johndoe`
