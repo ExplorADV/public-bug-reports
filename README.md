@@ -14,4 +14,5 @@ Ce depot permet de signaler des bugs et suggestions pour l'application ExplorADV
 - Le type de probleme (bug ou suggestion)
 - Une description claire du probleme
 - Les etapes pour reproduire le bug (si applicable)
-- Votre appareil et version iOS
+- Votre appareil (ex: iPhone 14 Pro)
+- Votre version iOS (ex: 17.5)

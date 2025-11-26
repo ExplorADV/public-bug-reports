@@ -26,5 +26,10 @@ body:
   - type: input
     id: device
     attributes:
-      label: Appareil et version iOS
-      placeholder: "iPhone 14 Pro, iOS 17.5"
+      label: Appareil
+      placeholder: "iPhone 14 Pro"
+  - type: input
+    id: ios_version
+    attributes:
+      label: Version iOS
+      placeholder: "17.5"
