@@ -1,18 +1,20 @@
-name: Bug Report
-description: Signaler un probleme
-labels: ["bug"]
+name: Suggestion
+description: Proposer une amelioration
+labels: ["enhancement"]
 assignees: ["patricklafleur"]
 body:
   - type: textarea
     id: description
     attributes:
       label: Description
+      description: Decrivez votre suggestion
     validations:
       required: true
   - type: textarea
-    id: steps
+    id: use_case
     attributes:
-      label: Etapes pour reproduire
+      label: Cas d'utilisation
+      description: Dans quel contexte cette fonctionnalite serait utile?
     validations:
       required: false
   - type: input
