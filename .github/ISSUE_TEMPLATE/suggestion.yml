@@ -2,6 +2,7 @@ name: Suggestion
 description: Proposer une amelioration
 labels: ["enhancement"]
 assignees: ["patricklafleur"]
+type: "Feature"
 body:
   - type: textarea
     id: description
