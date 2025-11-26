@@ -1,0 +1,30 @@
+name: Bug Report
+description: Signaler un probleme
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - Bug
+        - Suggestion
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Etapes pour reproduire
+    validations:
+      required: false
+  - type: input
+    id: device
+    attributes:
+      label: Appareil et version iOS
+      placeholder: "iPhone 14 Pro, iOS 17.5"
