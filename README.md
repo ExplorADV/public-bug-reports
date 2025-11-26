@@ -18,7 +18,7 @@ Ce depot permet de signaler des bugs et suggestions pour l'application ExplorADV
 
 ![Selection du template](docs/images/03-template-selection.png)
 
-Certains champs du formulaire sont communs à tous les formulaires:
+Certains champs sont communs aux formulaires:
 
 - **Description** (obligatoire): Brève description du problème ou de la suggestion
 
