@@ -1,11 +1,13 @@
 name: Bug Report
 description: Signaler un probleme
 labels: ["bug"]
+assignees: ["patricklafleur"]
 body:
   - type: dropdown
     id: type
     attributes:
       label: Type
+      default: 0
       options:
         - Bug
         - Suggestion
